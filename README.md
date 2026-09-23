@@ -25,11 +25,11 @@ This project analyzes Citi Bike usage patterns and explores the relationship bet
 
 ## Project Workflow
 
-1. Data Collection
-2. Data Cleaning and Feature Engineering
-3. Exploratory Data Analysis
-4. Weather Data Integration
-5. Insights and Documentation
+- Data Collection
+- Data Cleaning and Feature Engineering
+- Exploratory Data Analysis
+- Weather Data Integration
+- Insights and Documentation
 
 ## Key Findings
 
